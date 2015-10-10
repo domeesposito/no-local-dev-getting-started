@@ -1,5 +1,5 @@
 # app.rb
-# DE
+# DE Paris
 
 require 'sinatra'
 require 'sinatra/activerecord'
